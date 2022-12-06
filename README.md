@@ -11,7 +11,6 @@ deer's antlers, a donkey's body and a cow's hooves.
 ## Compilation in Ubuntu
 
 - sudo apt-get install build-essential libglib2.0-dev llvm libclang-dev
-- git clone https://github.com/Milu
 - cd Milu
 - make
 
